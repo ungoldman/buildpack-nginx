@@ -1,6 +1,8 @@
 # Dokku Buildpack: nginx
 
-This is the official dokku buildpack for static websites, powered by nginx.
+This is **a fork** of the official dokku buildpack for static websites, powered by nginx.
+
+Edited a couple things for my own purposes. - @ungoldman
 
 ## Usage
 
